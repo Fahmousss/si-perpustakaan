@@ -1,8 +1,9 @@
 
 # Sistem Informasi Perpustakaan
 
-<img width="590" alt="logo" src="https://github.com/Fahmousss/si-perpustakaan/assets/111571341/39761f1c-0afa-4be7-b72a-e75682d62081">
-
+<p align="center">
+<img width="590" alt="sipus" src="https://github.com/Fahmousss/si-perpustakaan/assets/111571341/39761f1c-0afa-4be7-b72a-e75682d62081">
+</p>
 
 This website is a project built to demonstrate the practical application of concepts learned in a databases course. It utilizes PHP Native for server-side scripting, MySQL for data storage and management, and Bootstrap 5 for a modern and responsive user interface.
 
