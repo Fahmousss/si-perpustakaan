@@ -14,7 +14,7 @@ This website is a project built to demonstrate the practical application of conc
 - Display and manage data through a user-friendly interface built with Bootstrap 5.
 ## Technologies Used
 
-**Backend:** PHP Native using PHP 8.2.4 ver (Provides a robust and flexible foundation for handling user interactions, database operations, and generating dynamic content.)
+**Backend:** PHP Native using PHP 8.3.4 ver (Provides a robust and flexible foundation for handling user interactions, database operations, and generating dynamic content.)
 
 **Frontend:** Bootstrap 5 (Ensures a visually appealing and responsive website across various devices, simplifies layout creation, and offers pre-built components for common UI elements.)
 
