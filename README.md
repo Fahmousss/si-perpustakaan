@@ -27,7 +27,7 @@ This website is a project built to demonstrate the practical application of conc
 Prerequisites:
   - A web server with PHP 8.2.12 or latest support (e.g., Apache, Nginx) or use
     a local development environment like XAMPP or Laragon.
-  - MySQL 8.3.0
+  - MySQL 8.3.0(recommended) or lower
 
 Clone the project
 
