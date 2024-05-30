@@ -25,13 +25,9 @@ This website is a project built to demonstrate the practical application of conc
 ## Getting Started
 
 Prerequisites:
-
-```bash
   - A web server with PHP support (e.g., Apache, Nginx) or use
     a local development environment like XAMPP or Laragon.
   - MySQL server
-```
-
 
 Clone the project
 
